@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tabrez</h1>
 <h3 align="center">A passionate frontend developer/designer from India</h3>
 
-- 🔭 I’m currently working on **on Enhancement of my Knowledge.**
+- 🔭 I’m currently working on **Enhancement of my Knowledge.**
 
 - 🌱 I’m currently learning *****`Full Stack Development with upgrad`***.**
 
-- 👯 I’m looking to collaborate **with organisations or developers.**
+- 👯 I’m looking to collaborate with **organisations or developers.**
 
 - 💬 Ask me about what you want *****[Email](https://myt0786@gmail.com)*****
 
