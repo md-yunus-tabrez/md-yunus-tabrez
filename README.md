@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/**[@md-yunus-tabrez](https://linkedin.com/in/md-yunus-tabrez)**" target="blank"><img align="center" class="bg-blue-light mb-2" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="**[@md-yunus-tabrez](https://linkedin.com/in/md-yunus-tabrez)**" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/**[@md-yunus-tabrez](https://linkedin.com/in/md-yunus-tabrez)**" target="blank"><img align="center"  src="https://findicons.com/files/icons/832/social_and_web/64/linked_in.png" alt="**[@md-yunus-tabrez](https://linkedin.com/in/md-yunus-tabrez)**" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/***[stackoverflow](https://stackoverflow.com/users/14750164/myt)***" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="***[stackoverflow](https://stackoverflow.com/users/14750164/myt)***" height="30" width="40" /></a>
 </p>
 
