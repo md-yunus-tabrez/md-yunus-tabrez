@@ -11,6 +11,8 @@
 
 - :trollface: *Don't get upset with people and situation, because both are powerless.* :no_good:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-yunus-tabrez&label=Profile%20views&color=0e75b6&style=flat" alt="md-yunus-tabrez"/> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/**[@md-yunus-tabrez](https://linkedin.com/in/md-yunus-tabrez)**" target="blank"><img align="center"  src="https://findicons.com/files/icons/832/social_and_web/64/linked_in.png" alt="**[@md-yunus-tabrez](https://linkedin.com/in/md-yunus-tabrez)**" height="30" width="40" /></a>
