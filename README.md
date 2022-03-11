@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tabrez</h1>
-<h3 align="center">A passionate frontend developer/designer from India</h3>
+<h3 align="center">A passionate full stack web developer/designer from India</h3>
 
 - 🔭 I’m currently working on **Enhancement of my Knowledge.**
 
-- 🌱 I’m currently learning *****`Full Stack Development with upgrad`***.**
+- 🌱 I’m pursuing B.Tech from *****`Sanskriti University`***.**
 
 - 👯 I’m looking to collaborate with **organisations or developers.**
 
