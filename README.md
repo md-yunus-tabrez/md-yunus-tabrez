@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-yunus-tabrez/**[@md-yunus-tabrez](https://www.linkedin.com/in/md-yunus-tabrez)**" target="blank"><img align="center"  src="https://findicons.com/files/icons/832/social_and_web/64/linked_in.png" alt="**[@md-yunus-tabrez](https://www.linkedin.com/in/md-yunus-tabrez)**" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14750164/myt/***[stackoverflow](https://stackoverflow.com/users/14750164/myt)***" target="blank"><img align="center" src="https://media.istockphoto.com/vectors/vector-emblem-of-stackoverflow-a-popular-question-and-answer-site-vector-id1215876099" alt="***[stackoverflow](https://stackoverflow.com/users/14750164/myt)***" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14750164/myt/***[stackoverflow](https://stackoverflow.com/users/14750164/myt)***" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png" alt="***[stackoverflow](https://stackoverflow.com/users/14750164/myt)***" height="30" width="100"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
