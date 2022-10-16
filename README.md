@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Enhancement of my Knowledge.**
 
-- 🌱 I’m pursuing B.Tech from *****`Sanskriti University`***.**
+- 🌱 Currently I have completed B.Tech(CSE) from *****`Sanskriti University`***.**
 
 - 👯 I’m looking to collaborate with **organisations or developers.**
 
